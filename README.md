@@ -4,26 +4,27 @@
 
  I'm an information technology engineer. I graduated two years ago, and here are some of the academic and personal projects I've worked on throughout my journey. 
  I've been passionate about programming for over 7 years, and I love taking on new challenges and learning as much as I can!
+ 
  ---
 
 ## 💻 Tech Stack
 
-**Backend & Languages**
+### Backend & Languages
 - PHP | Java | Python | JavaScript
-**Frameworks**
+### Frameworks
 - Laravel | CakePHP
-**Frontend**
-- HTML | CSS | Bootstrap | Tailwind CSS | SCSS | SweetAlert
+### Frontend
+- HTML | CSS | Bootstrap | Tailwind CSS | SCSS  
 - Blade Templates (Laravel)
-**Databases**
+### Databases
 - MySQL | Oracle SQL | phpMyAdmin
-**Tools & Platforms**
+### Tools & Platforms
 - Git & GitHub  
 - VS Code | IntelliJ IDEA | Android Studio  
 - Figma | Adobe XD | Canva  
-- Notion | Trello
-  
-**Additional Exposure**
+- Notion | Trello  
+
+### Additional Exposure
 - Vue.js | jQuery | AJAX  
 - C/C++ | Kotlin  
 - AWS | DigitalOcean | cPanel  
@@ -33,52 +34,66 @@
 
 ## 📌 Featured Projects
 
-### 🧑‍💻 Devstagram (Social Network)
-**Tech:** PHP, Laravel, Tailwind CSS, JavaScript, HTML 
-A social media platform inspired by Instagram for developers.  
-Includes authentication, posts, profiles, user interactions, etc.  
-Built with clean MVC architecture and scalable backend logic.
+### 🧑‍💻 Devstagram – Social Network Platform
+**Tech:** Laravel, PHP, JavaScript, Tailwind CSS  
+A social media application inspired by Instagram built from scratch.
+- User authentication and session management  
+- Create, edit, and interact with posts  
+- Dynamic user profiles and relationships  
+- Structured with MVC architecture and scalable backend design  
 
 ---
 
 ### 👩‍💼 Employee Management System (CRUD)
-**Tech:** Laravel, HTML 
-A full CRUD system for employee management.  
-Allows creating, editing, deleting, and listing employees with structured MVC design.
+**Tech:** Laravel, Blade, MySQL  
+A complete CRUD system for managing employees.
+- Create, update, delete, and list employees  
+- Clean MVC structure using Laravel Blade templates  
+- Form validation and structured data handling  
 
 ---
 
 ### 📄 Facturas Management System
-**Tech:** Laravel, JavaScript, Bootstrap, HTML 
-A system for uploading, editing, and managing invoice files.  
-Focused on file handling and data organization.
+**Tech:** Laravel, JavaScript, Bootstrap  
+A document management system focused on invoice handling.
+- Upload and organize invoice files  
+- Edit and manage stored records  
+- File structure handling with backend validation  
 
 ---
 
 ### 📑 PDF Management Tool
-**Tech:** Laravel, JavaScript, Bootstrap, HTML 
-A technical project focused on generating and managing PDF documents dynamically.  
-Includes upload and document processing features.
+**Tech:** Laravel, JavaScript  
+System for managing PDF documents.
+- Dynamic PDF generation and storage  
+- File upload and processing system  
+- Document lifecycle management  
 
 ---
 
 ### 🛒 Sales System (Team Project)
-**Tech:** Laravel, JavaScript, Bootstrap, HTML 
-A complete point-of-sale system for a supermarket.  
-Includes product management, sales flow, user roles, and transactional logic.
+**Tech:** Laravel, JavaScript, Bootstrap  
+Full point-of-sale system for a supermarket environment.
+- Product inventory management  
+- Sales flow and transaction processing  
+- User roles and access control  
+- End-to-end business logic implementation  
 
 ---
 
-### 🐾 DocSpot – Veterinary Appointments
-**Tech:** Laravel, JavaScript, JQuery, Bootstrap, HTML 
-A web application for managing veterinary appointments.  
-Users can schedule, view, and organize pet appointments in an intuitive interface.
+### 🐾 DocSpot – Veterinary Appointment System
+**Tech:** Laravel, JavaScript, jQuery, Bootstrap  
+Web application for managing veterinary appointments.
+- Schedule and manage pet appointments  
+- Interactive UI with dynamic form behavior  
+- Drag & drop file handling and real-time UI updates  
+- Appointment tracking system with structured workflow  
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm currently seeking opportunities as a **Full-Stack, Backend or Frotend Developer**, where I can contribute to real-world projects, grow professionally, and work with impactful teams.
+I am currently seeking opportunities as a **Full-Stack, Backend or Frontend Developer**, where I can contribute to real-world systems, work with experienced teams, and continue growing in scalable software development.
 
 ---
 
@@ -89,4 +104,4 @@ I'm currently seeking opportunities as a **Full-Stack, Backend or Frotend Develo
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *Always building. Always improving. Always learning*
